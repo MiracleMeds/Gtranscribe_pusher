@@ -11,6 +11,8 @@ Developer Resources:
     WebSocket uses browsers though so that is a possible downside, as it limits the program's design to a website (which requires upkeep to function!)
     On the other hand, HTML & CSS are very easy to design and you are familiar with them, making the development easier.
     More on WebSocket: https://www.youtube.com/watch?v=gCkyqAjY-pM&ab_channel=CodingReflections
+  *  WebRTC:
+    Kind of just WebSocket but with more stuff already made for ya, it could shorten the design time down.
 
   *Tutorial Duuuumps:
     -----For making a server from scratch hosted at thine home:
